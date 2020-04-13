@@ -17,17 +17,17 @@ We created 2 methods and one block, the first method is to sort numbers in the a
  ```git clone https://github.com/LOctavio/bubble-sort.git ```
 ## Authors
 
-👤 **Author1**
+👤 **Luis Octavio Ramirez Cruz**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@LOctavio](https://github.com/LOctavio)
+- Twitter: [@Luis Octavio Ram_ram431](https://twitter.com/Octavio_ram431)
+- Linkedin: [linkedin](https://www.linkedin.com/in/luis-octavio-ramirez-cruz-714521178/)
 
-👤 **Author2**
+👤 **Ngenzi Mugunga Herve**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@muhenge](https://github.com/muhenge)
+- Twitter: [@NGENZIHerve](https://twitter.com/NGENZIHerve)
+- Linkedin: [linkedin](https://www.linkedin.com/in/mugunga-herve-a62a0ab9/ )
 
 ## 🤝 Contributing
 
