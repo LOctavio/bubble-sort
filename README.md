@@ -1,44 +1,20 @@
-# Project Name
+# Project 1: Bubble Sort
 
-> One paragraph statement about the project.
+> This project is from [Microverse](https://www.microverse.org/) and the assignment is [here](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks)
 
-![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+
+We created 2 methods and one block, the first method is to sort numbers in the array and the second is to sort text.
 
 ## Built With
-
-- Major languages,
-- frameworks,
-- technologies used
+  - Ruby 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+[Live Demo Link](https://repl.it/@LOctavio/bubble-sort-1)
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+ ```git clone https://github.com/LOctavio/bubble-sort.git ```
 ## Authors
 
 👤 **Author1**
@@ -57,18 +33,6 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page]([issues/](https://github.com/LOctavio/bubble-sort/issues)).
 
-## Show your support
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.

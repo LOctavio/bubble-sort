@@ -13,7 +13,6 @@ def bubble_sort(arr)
 end
 puts bubble_sort([5,7,3,1,6,7])
 puts ""
-
 def bubble_sort_by(arr)
   swap = false
   until swap do
