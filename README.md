@@ -1,74 +1,38 @@
-# Project Name
+# Project 1: Bubble Sort
 
-> One paragraph statement about the project.
+> This project is from [Microverse](https://www.microverse.org/) and the assignment is [here](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks)
 
-![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+
+We created 2 methods and one block, the first method is to sort numbers in the array and the second is to sort text.
 
 ## Built With
-
-- Major languages,
-- frameworks,
-- technologies used
+  - Ruby 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+[Live Demo Link](https://repl.it/@LOctavio/bubble-sort)
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+ ```git clone https://github.com/LOctavio/bubble-sort.git ```
 ## Authors
 
-👤 **Author1**
+👤 **Luis Octavio Ramirez Cruz**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@LOctavio](https://github.com/LOctavio)
+- Twitter: [@Luis Octavio Ram_ram431](https://twitter.com/Octavio_ram431)
+- Linkedin: [linkedin](https://www.linkedin.com/in/luis-octavio-ramirez-cruz-714521178/)
 
-👤 **Author2**
+👤 **Ngenzi Mugunga Herve**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@muhenge](https://github.com/muhenge)
+- Twitter: [@NGENZIHerve](https://twitter.com/NGENZIHerve)
+- Linkedin: [linkedin](https://www.linkedin.com/in/mugunga-herve-a62a0ab9/ )
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page]([issues/](https://github.com/LOctavio/bubble-sort/issues)).
 
-## Show your support
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
