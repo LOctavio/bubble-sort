@@ -11,7 +11,7 @@ We created 2 methods and one block, the first method is to sort numbers in the a
 
 ## Live Demo
 
-[Live Demo Link](https://repl.it/@LOctavio/bubble-sort-1)
+[Live Demo Link](https://repl.it/@LOctavio/bubble-sort)
 
 ### Setup
  ```git clone https://github.com/LOctavio/bubble-sort.git ```
