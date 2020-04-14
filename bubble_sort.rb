@@ -24,7 +24,7 @@ def bubble_sort_by(arr)
       end
     end
   end
-  puts arr
+  arr
 end
 
-bubble_sort_by(%w[hello hi ruby]) { |right, left| right.length <=> left.length }
+puts bubble_sort_by(%w[hello hi ruby]) { |right, left| right.length <=> left.length }
